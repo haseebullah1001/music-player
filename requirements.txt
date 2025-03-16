@@ -2,3 +2,4 @@ python-telegram-bot
 pytube
 requests
 aiohttp
+google-api-python-client
